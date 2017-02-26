@@ -1,0 +1,4 @@
+[wrap-git]
+directory=date
+url=https://github.com/theodelrieu/date.git
+revision=85ce0d2
