@@ -5,6 +5,6 @@ source_url = https://github.com/rbock/sqlpp11/archive/0.45.zip
 source_filename = 0.45.zip
 source_hash = 0e10ac74416b5205300a6652fb01bb34a74ff8dd5571ad1a2c0de50e2c3a1db2
 
-patch_url = https://github.com/theodelrieu/meson_wraps/raw/master/sqlpp11/0.45/sqlpp11-0.45-1-wrap.zip 
+patch_url = https://github.com/theodelrieu/meson-wraps/raw/master/sqlpp11/0.45/sqlpp11-0.45-1-wrap.zip 
 patch_filename = sqlpp11-0.45-1-wrap.zip
-patch_hash = e794e9e4accd90a99b09fce3312b267d9d8fcbb4caa736866c0a49917f35933b
+patch_hash = 631d832f37011b63b52bbc9236048058ea52de23f80b2111d0269f0bb69408c6
